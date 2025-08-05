@@ -1,64 +1,85 @@
-# 👋 Hi there, I'm Hammad Muhammad
+# 👋 Hi, I'm Hammad Muhammad
 
-🎓 A passionate **Computer Science** student and tech enthusiast  
-💼 Currently working on projects involving **C++, Python, ASP.NET, and Laravel**  
+🎓 **Computer Science Student** | 💻 Aspiring Backend Developer & Data Enthusiast  
+🚀 Exploring C++, Python, Laravel, ASP.NET, and beyond  
 📍 Based in Pakistan | 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)  
-🚀 Always learning, always building
+💬 Open to internships, collaborations, and tech talks
+
+---
+
+## 💼 About Me
+
+I'm a passionate computer science student with a strong foundation in programming, backend development, and data-driven problem-solving.  
+I love building real-world projects, learning new technologies, and contributing to impactful ideas. Currently expanding my skills in **.NET**, **Laravel**, **React**, and **Python automation**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-<p align="left">
+### 👨‍💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<!-- Programming Languages -->
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" /></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=java&logoColor=white" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=python&logoColor=white" alt="Python" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=c-sharp&logoColor=white" alt="C#" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=php&logoColor=white" alt="PHP" /></a>
+### ⚙️ Frameworks & Platforms
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!-- Frameworks / Platforms -->
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=dotnet&logoColor=white" alt=".NET" /></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=laravel&logoColor=white" alt="Laravel" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=react&logoColor=white" alt="React" /></a>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<!-- Web Development -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=css3&logoColor=white" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=javascript&logoColor=white" alt="JavaScript" /></a>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-<!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank"><img src="https://img.shields.io/badge/-000?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" /></a>
+### 📚 Concepts & Interests
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-orange?style=for-the-badge)
+![Data Science](https://img.shields.io/badge/Data%20Science-3178C6?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+
+---
+
+## 🚧 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🎯 **Raytracer in C++** | Built a simple raytracer inspired by Scratchapixel for understanding computer graphics fundamentals | C++, OpenGL |
+| 📝 **Text Editor (Notepad Clone)** | Simple GUI-based text editor with open, save, and edit features | Python, Tkinter |
+
+🔗 [View all repositories →](https://github.com/iaamhammad?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iaamhammad&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaamhammad&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📚 Currently Learning
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Raytracer in C++** | A simple raytracer based on Scratchapixel | C++, OpenGL |
-
-> 🔗 [View all my projects](https://github.com/iaamhammad?tab=repositories)
+- 🐍 IT Automation with Python (Google / Innovista)
+- 📈 Google Data Analytics (Coursera via NUML)
+- 🔍 Advanced Google Analytics (next up)
 
 ---
 
-## 📈 GitHub Stats
-
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iaamhammad&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iaamhammad&layout=compact&theme=radical)
-
----
-
-## 📫 Get in Touch
+## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)
 - 📧 Email: hammadkhan2445@gmail.com  
-- 💬 Open to collaborations on meaningful projects!
+- 🗂️ [My GitHub Portfolio](https://github.com/iaamhammad)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
