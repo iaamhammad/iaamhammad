@@ -66,14 +66,6 @@ I love building real-world projects, learning new technologies, and contributing
 
 ---
 
-## 📚 Currently Learning
-
-- 🐍 IT Automation with Python (Google / Innovista)
-- 📈 Google Data Analytics (Coursera via NUML)
-- 🔍 Advanced Google Analytics (next up)
-
----
-
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)
