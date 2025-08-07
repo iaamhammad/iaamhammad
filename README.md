@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hammad Muhammad
 
-🎓 **Computer Science Student** | 💻 Aspiring Backend Developer & Data Enthusiast  
+🎓 **Computer Science Student** | 💻 Aspiring Backend Developer & Data Science Enthusiast  
 🚀 Exploring C++, Python, Laravel, ASP.NET, and beyond  
 📍 Based in Pakistan | 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)  
 💬 Open to internships, collaborations, and tech talks
