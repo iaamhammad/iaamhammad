@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Hammad Muhammad
 
-🎓 **Computer Science Student** | 💻 Aspiring Backend Developer & Data Analyst  
-🚀 Exploring MERN Stack, JavaScript, and Python  
-📍 Based in Pakistan | 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)  
-💬 Open to internships, collaborations, and data-driven projects  
+🎓 Computer Science Student | 💻 Aspiring Backend Developer & Data Analyst
+🚀 Exploring MERN Stack, JavaScript, Python, and Data Science
+📍 Based in Pakistan | 🌐 LinkedIn
+💬 Open to internships, collaborations, and data-driven projects
 
 ---
 
 ## 💼 About Me
 
-I'm a passionate **Computer Science student** with a strong foundation in **backend development** and **data analytics**.  
-I love building real-world applications, exploring new technologies, and solving complex problems using code and data.  
+I'm a passionate Computer Science student with a strong foundation in backend development and data analytics.
+I enjoy building real-world applications, exploring new technologies, and solving complex problems using code and data.
 
-Recently, I completed the **Google Data Analytics Professional Certificate**, gaining hands-on experience in **data cleaning, visualization, and storytelling** using **R, SQL, Excel, and Tableau**.  
+Recently, I completed the Google Data Analytics Professional Certificate, gaining hands-on experience in data cleaning, visualization, and storytelling using R, SQL, Excel, BigQuery, and Tableau.
 
-Currently, I’m expanding my skills in the **MERN stack**, **JavaScript**, and **Python** — combining my interest in full-stack development and data-driven solutions.
+Currently, I’m expanding my skills in the MERN stack, JavaScript, Python, and Data Science — combining my interest in full-stack development and data-driven solutions.
 
 ---
 
