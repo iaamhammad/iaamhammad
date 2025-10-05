@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Hammad Muhammad
 
-🎓 Computer Science Student | 💻 Aspiring Backend Developer & Data Analyst
-🚀 Exploring MERN Stack, JavaScript, Python, and Data Science
-📍 Based in Pakistan | 🌐 LinkedIn
-💬 Open to internships, collaborations, and data-driven projects
+🎓 **Computer Science Student** | 💻 **Aspiring Backend Developer & Data Analyst**  
+🚀 Exploring **MERN Stack, JavaScript, Python, and Data Science**  
+📍 Based in **Pakistan** | 🌐 [**LinkedIn**](https://www.linkedin.com/in/hammad-muhammad1/)  
+💬 Open to **internships, collaborations, and data-driven projects**
 
 ---
 
