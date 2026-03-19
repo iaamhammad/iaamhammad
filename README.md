@@ -91,7 +91,7 @@ I hold the **Google Data Analytics Professional Certificate**, with hands-on exp
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hammad-muhammad1/)
-- 📝 [Medium](https://medium.com/@hammadkhan2445)
+- 📝 [Medium](https://medium.com/@iaamhammad)
 - 📊 [Kaggle](https://www.kaggle.com/iaamhammad)
 - 📧 Email: **hammadkhan2445@gmail.com**
 - 🗂️ [GitHub Portfolio](https://github.com/iaamhammad)
