@@ -19,57 +19,50 @@ I hold the **Google Data Analytics Professional Certificate**, with hands-on exp
 ## 🛠️ Technologies & Tools
 
 ### 💬 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=r" title="R" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🤖 Machine Learning & NLP
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white" title="NLTK" height="48" />
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" title="spaCy" height="48" />
-</p>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### 📊 Data Analytics & Visualization
-<p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="pandas" height="48" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" height="48" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" height="48" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" title="Seaborn" height="48" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau" height="48" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" title="BigQuery" height="48" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Excel" height="48" />
-</p>
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mssql" title="SQL Server" />
-</p>
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🧰 Tools & Environments
-<p>
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter Notebook" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle" height="48" />
-</p>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### ⚙️ Frameworks & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" />
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
-</p>
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 📚 Concepts & Interests
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-09A3D5?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Programming-blue?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-orange?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-1E90FF?style=for-the-badge)
+![Data%20Visualization](https://img.shields.io/badge/Data%20Visualization-9400D3?style=for-the-badge)
 
 ---
 
