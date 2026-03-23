@@ -71,7 +71,7 @@ I hold the **Google Data Analytics Professional Certificate**, with hands-on exp
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 📈 **Cyclistic Bike-Share Analysis** | Google Data Analytics capstone — cleaned ~3.7M rides, performed EDA, built 6 visualizations, and delivered 3 data-backed marketing recommendations | Python, pandas, SQLite, Matplotlib, Seaborn |
-| 🎯 **Raytracer in C++** | Built a simple raytracer inspired by Scratchapixel to learn computer graphics fundamentals | C++, OpenGL |
+| 🎯 3D Raytracer | Built a raytracer from scratch in C++ rendering spheres with reflections, refraction, and diffuse shading. Output as .ppm/.png. | C++ |
 | 📝 Notepad Clone (Editx) | Feature-rich text editor with dark mode, Find & Replace, font selector, line numbers, and live word count. Packaged as a Windows .exe. | Python, Tkinter, PyInstaller |
 
 🔗 [View all repositories →](https://github.com/iaamhammad?tab=repositories)
