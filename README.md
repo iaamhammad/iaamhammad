@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Hammad Muhammad
 
-🎓 **Computer Science Student** | 💻 **Aspiring AI/ML Engineer & Data Analyst**  
-🚀 Exploring **Machine Learning, NLP, Python, and Data Science**  
+🎓 **BS Computer Science Student** | 💻 Aspiring AI/ML Engineer  
+📊 Focused on Data Analytics, Machine Learning & Real-World Projects
+🚀 Exploring Machine Learning and Data Science through hands-on projects
 📍 Based in **Pakistan** | 🌐 [**LinkedIn**](https://www.linkedin.com/in/hammad-muhammad1/)  
 💬 Open to **internships, collaborations, and data-driven projects**
 
@@ -23,24 +24,27 @@ I hold the **Google Data Analytics Professional Certificate**, with hands-on exp
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📈 Data Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### 🗄️ Databases
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### 🧰 Tools & Environments
+### 🤖 Machine Learning (Learning)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🧰 Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-### 🤖 Machine Learning & NLP
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ---
 
