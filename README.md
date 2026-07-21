@@ -102,15 +102,22 @@
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iaamhammad&show_icons=true&theme=github_dark" />
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iaamhammad&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaamhammad&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaamhammad&layout=compact&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaamhammad&theme=tokyonight" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iaamhammad&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
